@@ -41,8 +41,18 @@ To download and install the FPS Booster for Magisk module, follow these steps:
 
 1. **Download the Module**
 
-   Use the following command to download the module ZIP file:
+   Click the link below to download the ZIP file containing the module:
+
+   [Download FPS Booster for Magisk](https://github.com/Sparux-666/FPS-BOOSTER-FOR-MAGISK/archive/refs/heads/main.zip)
+
+2. **Install the Module**
+
+   After downloading, extract the ZIP file on your computer or device.
+
+   Move the extracted file to your Android device, if necessary.
+
+   Use Magisk to install the module:
 
    ```bash
-   wget https://github.com/Sparux-666/FPS-BOOSTER-FOR-MAGISK/archive/refs/heads/main.zip -O fps-booster-magisk.zip
+   magisk --install /storage/emulated/0/Download/fps-booster-magisk.zip
    ```
