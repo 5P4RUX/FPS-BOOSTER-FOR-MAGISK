@@ -54,5 +54,22 @@ To download and install the FPS Booster for Magisk module, follow these steps:
    Use Magisk to install the module:
 
    ```bash
-   magisk --install /storage/emulated/0/Download/fps-booster-magisk.zip
+   cd /storage/emulated/0/Download/
+   magisk --install FPS-BOOSTER-FOR-MAGISK-main.zip
+   ```
+
+   ## Remove:
+
+   Optionally, you can remove the ZIP file after installation:
+
+   ```bash
+   rm /storage/emulated/0/Download/FPS-BOOSTER-FOR-MAGISK-main.zip
+   ```
+
+   ## Reboot:
+
+   Finally, reboot your device to apply the changes.
+
+   ```bash
+   reboot
    ```
