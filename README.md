@@ -34,3 +34,15 @@
 <h4 align="left">TESTED ON > </h4><br>
 
 * MAGISK
+
+## Installation
+
+To download and install the FPS Booster for Magisk module, follow these steps:
+
+1. **Download the Module**
+
+   Use the following command to download the module ZIP file:
+
+   ```bash
+   wget https://github.com/Sparux-666/FPS-BOOSTER-FOR-MAGISK/archive/refs/heads/main.zip -O fps-booster-magisk.zip
+   ```
